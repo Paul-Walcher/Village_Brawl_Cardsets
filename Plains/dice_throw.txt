@@ -1,0 +1,36 @@
+Biome
+
+
+Total cards: 221
+D10 needed for one random draw: 6 (roll 000000-999999)
+
+Wood                          27 copies  0.122172   12.217%    12.217%  000000-122170
+Stone                         27 copies  0.122172   12.217%    24.434%  122171-244342
+Coin                          20 copies  0.090498    9.050%    33.484%  244343-334840
+Extended Travel               10 copies  0.045249    4.525%    38.009%  334841-380089
+Antropomorphic Beaver          3 copies  0.013575    1.357%    39.367%  380090-393664
+Stone Collector                3 copies  0.013575    1.357%    40.724%  393665-407238
+Healer CEO                     3 copies  0.013575    1.357%    42.081%  407239-420813
+Small Heal Potion              4 copies  0.018100    1.810%    43.891%  420814-438913
+Big Heal Potion                9 copies  0.040724    4.072%    47.964%  438914-479637
+Lucky Strike                  10 copies  0.045249    4.525%    52.489%  479638-524885
+Lucky Strike II               20 copies  0.090498    9.050%    61.538%  524886-615383
+Fortunate Posture             10 copies  0.045249    4.525%    66.063%  615384-660632
+Fortunate Posture II          20 copies  0.090498    9.050%    75.113%  660633-751130
+EXP Shard                      1 copies  0.004525    0.452%    75.566%  751131-755655
+_2 EXP Shards                  1 copies  0.004525    0.452%    76.018%  755656-760179
+_3 EXP Shards                  5 copies  0.022624    2.262%    78.281%  760180-782804
+_4 EXP Shards                  9 copies  0.040724    4.072%    82.353%  782805-823528
+Red Herbs IV                   5 copies  0.022624    2.262%    84.615%  823529-846152
+Red Herbs V                    3 copies  0.013575    1.357%    85.973%  846153-859727
+Blue Herbs IV                  5 copies  0.022624    2.262%    88.235%  859728-882351
+Blue Herbs V                   3 copies  0.013575    1.357%    89.593%  882352-895926
+Green Herbs IV                 5 copies  0.022624    2.262%    91.855%  895927-918551
+Green Herbs V                  3 copies  0.013575    1.357%    93.213%  918552-932125
+Small Strength Potion BP       2 copies  0.009050    0.905%    94.118%  932126-941175
+Strength Potion BP             3 copies  0.013575    1.357%    95.475%  941176-954750
+Small Protection Potion BP     2 copies  0.009050    0.905%    96.380%  954751-963799
+Protection Potion BP           3 copies  0.013575    1.357%    97.738%  963800-977374
+Small Heal Potion BP           2 copies  0.009050    0.905%    98.643%  977375-986424
+Heal Potion BP                 3 copies  0.013575    1.357%   100.000%  986425-999998
+
