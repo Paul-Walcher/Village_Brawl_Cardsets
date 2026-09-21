@@ -1,0 +1,21 @@
+Total cards: 400
+D10 needed for one random draw: 6 (roll 000000-999999)
+
+Peaceful_Farmer             91 copies  0.227500   22.750%    22.750%  000000-227499
+Angry_Peasant_I             30 copies  0.075000    7.500%    30.250%  227500-302499
+Angry_Peasant_II            10 copies  0.025000    2.500%    32.750%  302500-327499
+Angry_Peasant_III           39 copies  0.097500    9.750%    42.500%  327500-424999
+Giant_Beaver                39 copies  0.097500    9.750%    52.250%  425000-522499
+Living_Stone                39 copies  0.097500    9.750%    62.000%  522500-619999
+Disturbed_Druid_Red         20 copies  0.050000    5.000%    67.000%  620000-669999
+Disturbed_Druid_Red_II      10 copies  0.025000    2.500%    69.500%  670000-694999
+Disturbed_Druid_Blue        20 copies  0.050000    5.000%    74.500%  695000-744999
+Disturbed_Druid_Blue_II     10 copies  0.025000    2.500%    77.000%  745000-769999
+Disturbed_Druid_Green       20 copies  0.050000    5.000%    82.000%  770000-819999
+Disturbed_Druid_Green_II    10 copies  0.025000    2.500%    84.500%  820000-844999
+Retired_Knight              10 copies  0.025000    2.500%    87.000%  845000-869999
+Retired_Knight_II            5 copies  0.012500    1.250%    88.250%  870000-882499
+Professional_Fighter         5 copies  0.012500    1.250%    89.500%  882500-894999
+Drunkyard                   23 copies  0.057500    5.750%    95.250%  895000-952499
+Bandit_Boss                 10 copies  0.025000    2.500%    97.750%  952500-977499
+Djinn                        9 copies  0.022500    2.250%   100.000%  977500-999999
